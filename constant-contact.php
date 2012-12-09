@@ -1,13 +1,14 @@
 <?php
-
 /*
 Plugin Name: Constant Contact
 Plugin URI: http://www.gopiplus.com/work/2010/07/18/constant-contact/
 Description: This Constant Contact wordpress plug-in adds a constant contact widget signup form to your website sidebar. Very easy and no need any coding language knowledge to use this plug-in. Once the widget is ready, entered emails are automatically stored into your constant contact account.
 Author: Gopi.R
-Version: 9.0
+Version: 9.1
 Author URI: http://www.gopiplus.com/
 Donate link: http://www.gopiplus.com/work/2010/07/18/constant-contact/
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
 global $wpdb, $wp_version;

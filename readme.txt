@@ -1,13 +1,12 @@
 === Constant contact ===
-
 Contributors: www.gopiplus.com, gopiplus
 Donate link: http://www.gopiplus.com/work/2010/07/18/constant-contact/
 Tags: constant contact, widget, newsletter,signup, newsletter widget, email newsletter form, newsletter form, newsletter signup, email widget, email marketing, newsletter, signup, Ajax
 Author URI: http://www.gopiplus.com/
 Plugin URI: http://www.gopiplus.com/work/2010/07/18/constant-contact/
 Requires at least: 3.0
-Tested up to: 3.4.1
-Stable tag: 9.0
+Tested up to: 3.5
+Stable tag: 9.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
@@ -111,6 +110,9 @@ Tested upto 3.4
 
 New demo link, www.gopiplus.com
 
+= 9.1 = 
+
+Tested upto 3.5
 
 == Upgrade Notice ==
 
@@ -140,6 +142,10 @@ Tested upto 3.4
 = 9.0 =
 
 New demo link, www.gopiplus.com
+
+= 9.1 = 
+
+Tested upto 3.5
 
 == Plugin Features ==
 

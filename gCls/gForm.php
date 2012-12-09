@@ -12,5 +12,5 @@
   </div>
 </div>
 <?php } else  { ?>
-<div class="cc_underconstruction">Under Construction.</div>
+<div class="cc_underconstruction">Under Construction. Please enter your Constant Contact details.</div>
 <?php } ?>

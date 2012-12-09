@@ -5,7 +5,7 @@
 	//###### File Name : gCls1.php                   							######
 	//###### Purpose   : send the user entered value to constant contact class  ######
 	//###### Date      : June 20th 2009                  						######
-	//###### Updated   : July 24th 2010                  						######
+	//###### Updated   : December 10th 2012                 					######
 	//###### Author    : Gopi.R                        							######
 	//################################################################################
 	
