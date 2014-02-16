@@ -4,9 +4,9 @@ Donate link: http://www.gopiplus.com/work/2010/07/18/constant-contact/
 Tags: constant contact, widget, newsletter,signup, newsletter widget, email newsletter form, newsletter form, newsletter signup, email widget, email marketing, newsletter, signup, Ajax
 Author URI: http://www.gopiplus.com/
 Plugin URI: http://www.gopiplus.com/work/2010/07/18/constant-contact/
-Requires at least: 3.0
-Tested up to: 3.5
-Stable tag: 9.1
+Requires at least: 3.4
+Tested up to: 3.8
+Stable tag: 9.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
@@ -41,7 +41,6 @@ Premium plugin available with more feature, check the plugin official website to
 * Option to update email subject
 * Option to update email content
 
-	
 **We can use this plug-in in two different way.**
 	
 [Click to see plugin configuration](http://www.gopiplus.com/work/2010/07/18/constant-contact/ "Click to see plugin configuration")
@@ -52,9 +51,9 @@ Add directly in the theme : Use given code in the PHP file to add the form direc
 
 == Screenshots ==
 
-1. This is the widgets management page, in this page you should update the constant contact login details. http://www.gopiplus.com/work/2010/07/18/constant-contact/
+1. Front Screen. http://www.gopiplus.com/work/2010/07/18/constant-contact/
 
-2. constant contact front end. http://www.gopiplus.com/work/2010/07/18/constant-contact/
+2. Admin Screen. http://www.gopiplus.com/work/2010/07/18/constant-contact/
 
 == Installation ==
 
@@ -114,6 +113,12 @@ New demo link, www.gopiplus.com
 
 Tested upto 3.5
 
+= 9.2 = 
+
+1. Tested up to 3.8
+2. Now this plugin supports localization (or internationalization). i.e. option to translate into other languages. 
+Plugin *.po file (constant-contact.po) available in the languages folder.
+
 == Upgrade Notice ==
 
 = 1.0 =
@@ -146,6 +151,12 @@ New demo link, www.gopiplus.com
 = 9.1 = 
 
 Tested upto 3.5
+
+= 9.2 = 
+
+1. Tested up to 3.8
+2. Now this plugin supports localization (or internationalization). i.e. option to translate into other languages. 
+Plugin *.po file (constant-contact.po) available in the languages folder.
 
 == Plugin Features ==
 
