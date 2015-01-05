@@ -4,7 +4,7 @@ Plugin Name: constant contact
 Plugin URI: http://www.gopiplus.com/work/2010/07/18/constant-contact/
 Description: This constant contact form plugin add the entered email address into site admin constantcontact.com account with mentioned group. and this will send thank you mail to the entered email address.
 Author: Gopi Ramasamy
-Version: 10.0
+Version: 10.1
 Author URI: http://www.gopiplus.com/work/2010/07/18/constant-contact/
 Donate link: http://www.gopiplus.com/work/2010/07/18/constant-contact/
 License: GPLv2 or later
